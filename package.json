@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.4.0",
-    "@vue/compiler-sfc": "^3.2.2",
+    "@vue/compiler-sfc": "^3.2.38",
     "autoprefixer": "^10.3.1",
     "electron": "^13.1.9",
     "electron-builder": "^22.11.7",
